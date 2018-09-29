@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_WEBI" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <WEBI>
+    <VEPTEXT>Test Web API</VEPTEXT>
+    <PVEPHEADER>
+     <VEPHEADER>
+      <VEPNAME>ZTESTWEBI2</VEPNAME>
+      <VERSION>A</VERSION>
+      <VEPNAMEEXT>ZTESTWEBI2</VEPNAMEEXT>
+     </VEPHEADER>
+    </PVEPHEADER>
+    <PVEPFUNCTION>
+     <VEPFUNCTION>
+      <VEPNAME>ZTESTWEBI2</VEPNAME>
+      <VERSION>A</VERSION>
+      <FUNCTION>ZTESTWEBI2</FUNCTION>
+      <MAPPEDNAME>ZTESTWEBI2</MAPPEDNAME>
+      <IS_EXPOSED>X</IS_EXPOSED>
+     </VEPFUNCTION>
+    </PVEPFUNCTION>
+    <PVEPFUNCSOAPEXT>
+     <VEPFUNCSOAPEXT>
+      <VEPNAME>ZTESTWEBI2</VEPNAME>
+      <VERSION>A</VERSION>
+      <FUNCTION>ZTESTWEBI2</FUNCTION>
+      <NAMESPACE>urn:sap-com:document:sap:rfc:functions</NAMESPACE>
+      <REQUESTNAME>ZTESTWEBI2</REQUESTNAME>
+     </VEPFUNCSOAPEXT>
+    </PVEPFUNCSOAPEXT>
+    <PVEPENDPOINT>
+     <VEPENDPOINT>
+      <RELID>VI</RELID>
+      <VEPNAME>ZTESTWEBI2</VEPNAME>
+      <VERSION>A</VERSION>
+      <ENDPOINTTYPE>FUNC</ENDPOINTTYPE>
+      <DATA_VERSION>1</DATA_VERSION>
+      <DEF_START_PT>I</DEF_START_PT>
+      <ENDPOINTNAME>ZTESTWEBI2</ENDPOINTNAME>
+      <CLUSTR>104</CLUSTR>
+     </VEPENDPOINT>
+    </PVEPENDPOINT>
+    <PVEPVISOAPEXT>
+     <VEPVISOAPEXT>
+      <VEPNAME>ZTESTWEBI2</VEPNAME>
+      <VERSION>A</VERSION>
+      <NAMESPACE>urn:sap-com:document:sap:rfc:functions</NAMESPACE>
+      <SOAP_APPL_URI>urn:sap-com:soap:runtime:application:rfc:710</SOAP_APPL_URI>
+     </VEPVISOAPEXT>
+    </PVEPVISOAPEXT>
+   </WEBI>
+  </asx:values>
+ </asx:abap>
+</abapGit>

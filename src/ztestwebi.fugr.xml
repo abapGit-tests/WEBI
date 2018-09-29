@@ -13,6 +13,11 @@
      <REMOTE_CALL>R</REMOTE_CALL>
      <SHORT_TEXT>Test WEBI for ABAPgit</SHORT_TEXT>
     </item>
+    <item>
+     <FUNCNAME>ZTESTWEBI2</FUNCNAME>
+     <REMOTE_CALL>R</REMOTE_CALL>
+     <SHORT_TEXT>Test second FM and service</SHORT_TEXT>
+    </item>
    </FUNCTIONS>
   </asx:values>
  </asx:abap>
