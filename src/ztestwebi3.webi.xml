@@ -65,6 +65,15 @@
       <SOAP_APPL_URI>urn:sap-com:soap:runtime:application:rfc:710</SOAP_APPL_URI>
      </VEPVISOAPEXT>
     </PVEPVISOAPEXT>
+    <PWSHEADER>
+     <WSHEADER>
+      <WSNAME>ZTESTWEBI3</WSNAME>
+      <VERSION>A</VERSION>
+      <WSNAMEEXT>ZTESTWEBI3</WSNAMEEXT>
+      <PREFIX>/sap/bc/srt/rfc/sap/</PREFIX>
+      <VINAME>ZTESTWEBI3</VINAME>
+     </WSHEADER>
+    </PWSHEADER>
    </WEBI>
   </asx:values>
  </asx:abap>
